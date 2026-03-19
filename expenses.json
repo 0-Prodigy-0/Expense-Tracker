@@ -1,0 +1,16 @@
+{
+    "Expenses": [
+        {
+            "amount": 1700,
+            "category": "food",
+            "description": "radisson lunch",
+            "date": "2026-03-19"
+        },
+        {
+            "amount": 32000,
+            "category": "entertainment",
+            "description": "buying a ps5",
+            "date": "2026-03-19"
+        }
+    ]
+}
